@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_900"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_song_name"
+                style="@style/SongDescriptionHeadings"
+                android:text="@string/song_name" />
+
+            <TextView
+                android:id="@+id/tv_song_artist"
+                style="@style/SongDescriptionHeadings"
+                android:text="@string/song_artist" />
+
+            <TextView
+                android:id="@+id/tv_song_artist_description"
+                style="@style/SongDescriptionContents"
+                android:text="@string/description" />
+
+        </LinearLayout>
+    </ScrollView>
+    <TextView
+        android:id="@+id/tv_go_to_now_playing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/goto_now_playing"
+        android:gravity="center"
+        android:textColor="@color/green_A700"
+        android:textSize="24sp"
+        android:textAllCaps="true"
+        android:background="@color/grey_800"
+        android:textStyle="italic"/>
+</LinearLayout>

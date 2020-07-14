@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AudioPlayerApp</string>
+    <string name="playing">playing</string>
+    <string name="song_name">song_name</string>
+    <string name="song_artist">song_artist</string>
+    <string name="goto_songs_list">goto songs list</string>
+    <string name="goto_now_playing">goto now playing</string>
+    <string name="description">description</string>
+    <string name="about_song_artist">About SONG ARTIST</string>
+    <string name="about_song">ABOUT SONG</string>
+    <string name="about_bruno_mars">
+        Peter Gene Hernandez (born October 8, 1985), known professionally as Bruno Mars, is an American singer, songwriter, record producer, multi-instrumentalist, and dancer. He is known for his stage performances, retro showmanship, and for performing in a wide range of musical styles, including pop, R&amp;B, funk, soul, reggae, hip hop, and rock. Mars is accompanied by his band, The Hooligans, who play a variety of instruments, such as electric guitar, bass, piano, keyboards, drums, and horns, and also serve as backup singers and dancers.</string>
+    <string name="about_eminem">
+        Marshall Bruce Mathers III (born October 17, 1972), known professionally as Eminem (often stylized as EMINƎM), is an American rapper, songwriter, and record producer. Credited with popularizing hip hop in Middle America, Eminem\'s global success and acclaimed works are widely regarded as having broken racial barriers for the acceptance of white rappers in popular music. While much of his transgressive work during the early 2000s made him hugely controversial, he came to be a representation of popular angst and the American underclass. He has been influential for many artists of various genres and is often cited as one of the greatest rappers of all time.</string>
+    <string name="about_taylor_swift">
+        Taylor Swift, in full Taylor Alison Swift, (born December 13, 1989, West Reading, Pennsylvania, U.S.), American pop and country music singer-songwriter whose tales of young heartache achieved widespread success in the early 21st century. Singer/songwriter Taylor Swift was earning renown as a country music singer by the age of 16. Early hits like "Love Story" and "You Belong With Me" appealed to country and pop fans alike and helped fuel the multi-platinum success of her albums, including the Grammy-winning Fearless (2008). Swift continued to top the charts with her 2014 studio effort 1989, which featured the No. 1 singles "Shake it Off" and "Blank Space" and won Grammys for Album of the Year and Best Pop Vocal Album. Her follow-up albums reputation (2018) and Lover (2019) also achieved immense commercial success.</string>
+    <string name="about_wiz_khalifa">Cameron Jibril Thomaz (born September 8, 1987), better known by his stage name Wiz Khalifa, is an American rapper, singer, songwriter, and actor. He released his debut album, Show and Prove, in 2006, and signed to Warner Bros. Records in 2007. His Eurodance-influenced single, "Say Yeah", received urban radio airplay, charting on the Rhythmic Top 40 and Hot Rap Tracks charts in 2008, becoming his first minor hit.</string>
+    <string name="about_charlie_puth">Charles Otto Puth Jr. (born December 2, 1991) is an American singer, songwriter and record producer. His initial exposure came through the viral success of his song videos uploaded to YouTube.</string>
+    <string name="about_ed_sheeran">Edward Christopher Sheeran MBE (born 17 February 1991) is an English singer, songwriter, record producer, and actor. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project. After signing with Asylum Records, his debut album, + (pronounced "plus"), was released in September 2011 and topped the UK Albums Chart. It contained his first hit single "The A Team". In 2012, Sheeran won the Brit Awards for Best British Male Solo Artist and British Breakthrough Act.</string>
+    <string name="about_justin_bieber">Justin Drew Bieber (born March 1, 1994) is a Canadian-American singer, songwriter, and actor.[4] Discovered at 13 years old by talent manager Scooter Braun after he had watched his YouTube cover song videos, Bieber was signed to RBMG Records in 2008. With Bieber\'s debut EP My World, released in late 2009, Bieber became the first artist to have seven songs from a debut record chart on the Billboard Hot 100.</string>
+    <string name="play">play</string>
+</resources>
